@@ -6,7 +6,7 @@ Meu nome é Everton Teixeira
 - Estou me desenvolvendo na linguagem javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
 0000109867702xsp@al.educacao.sp.gov.br
 
